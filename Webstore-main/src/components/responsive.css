@@ -1,0 +1,22 @@
+/* @media only screen and (max-width: 768px) {
+  .nav_container {
+    flex-direction: column;
+  }
+  
+  .brand_name {
+    margin: 1rem;
+  }
+  
+  .navbar_elements {
+    display: none;
+  }
+  
+  .navbar-toggler {
+    display: flex;
+  }
+  
+  .form {
+    margin: 1rem;
+  }
+ 
+} */
